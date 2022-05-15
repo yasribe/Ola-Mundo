@@ -3,4 +3,4 @@
 
 Repositorio de versionamento, do curso em video.
 
-Essa modificação foi feite de modo remoto, pelo site!
+Essa modificação foi feita de modo remoto, pelo site!
